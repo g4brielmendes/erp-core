@@ -136,7 +136,7 @@ A documentação foi gerada automaticamente utilizando Swagger UI.
 ## 1️⃣ Clonar o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/erp-core.git
+git clone https://github.com/g4brielmendes/erp-core.git
 ```
 
 ---
